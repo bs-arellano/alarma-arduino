@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+
+<head>
+    <title>Alarma ESP32</title>
+</head>
+<body>
+    Numero de registros: <%-Object.keys(data).length%><br>
+    <%for (log in data){
+        let src = 'data:image/png;base64,'+data[log]['photo']%>
+        <img src=<%=src%>>
+    <%}%>
+    
+</body>
+</html>
