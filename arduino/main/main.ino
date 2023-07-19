@@ -12,10 +12,10 @@ FirebaseJson json;
 int sensor;
 
 //Credenciales
-const char* ssid = "ASUS_X018D";
-const char* password = "koga1605.";
-String FIREBASE_HOST = "alarma-esp32cam-default-rtdb.firebaseio.com";
-String FIREBASE_AUTH = "ESnSfLCitC8bsFdnHEOz4JyOnxStke4Lkd2UPagH";
+const char* ssid = "";
+const char* password = "";
+String FIREBASE_HOST = "";
+String FIREBASE_AUTH = "";
 
 
 //CAMERA_MODEL_AI_THINKER
