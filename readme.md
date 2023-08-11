@@ -45,6 +45,3 @@ If you would like to contribute to the alarma-arduino project, you can do so by 
 6. Open a pull request.
 ## License
 The alarma-arduino project is released under the MIT License.
-
-## Contact
-If you have any questions about the alarma-arduino project, you can contact me at brayanarellano1605@gmail.com.
